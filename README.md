@@ -1,7 +1,7 @@
 python talks
 ============
 
-Dieses Repo beinhaltet kleinere bis größere talks, die ich bei der (Python User Group Cologne)[http://wiki.pythonde.pysv.org/pycologne/] und Bonn gehalten habe.
+Dieses Repo beinhaltet kleinere bis größere talks, die ich bei der [PyCologne](http://wiki.pythonde.pysv.org/pycologne/ "Python User Group Cologne") und Bonn gehalten habe.
 
 ## Inhalt
   * 2013 numpy-talk: A short introduction (ca. 30 min)
