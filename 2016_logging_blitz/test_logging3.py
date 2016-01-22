@@ -1,7 +1,8 @@
 #!/usr/bin/python
 # coding: utf-8
 """
-    module without logging
+    module with logging
+    log-level: >= debug
 """
 import logging
 
